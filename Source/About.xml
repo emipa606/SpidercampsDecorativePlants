@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modMetaData>
+  <name>Spidercamp's Decorative Plants</name>
+  <author>Spidercamp</author>
+  <supportedVersions>
+    <li>1.0</li>
+    <li>1.1</li>
+  </supportedVersions>
+  <packageid>SpiderCamp.SpiderCampDecorativePlants</packageid>
+  <description>A collection of decorative plants.
+  
+      Included Plants
+      White Hydrangea
+      Blue Hydrangea
+      Pink Hydrangea
+      Decorative Sunflower
+	  Lavender
+	  Flowering Pincushion Cactus
+	  Flowering Saguaro Cactus
+	  Bonsai Pine
+	  Bonsai Poplar
+	  Bonsai Oak
+	  Bonsai Birch
+	  Bonsai Cecropia
+	  
+   [h1]Features[/h1]  
+      Bonsai trees can only be grown in pots and cannot be harvested for wood. They exist only to be admired.
+	  Flowers and cacti can be grown in the ground or in pots. 
+	  
+	More plants suggestions welcome. 
+	  </description>
+</modMetaData>
