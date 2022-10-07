@@ -1,0 +1,401 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!-- Flowers -->
+  <ThingDef ParentName="PlantBase">
+    <defName>SCWhitehydrangea</defName>
+    <label>white hydrangea</label>
+    <description>A large flowering bush with white blossoms.</description>
+    <statBases>
+      <MaxHitPoints>150</MaxHitPoints>
+      <Beauty>18</Beauty>
+      <Nutrition>0.25</Nutrition>
+    </statBases>
+    <graphicData>
+      <texPath>Things/Plant/Whitehydrangea</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <altitudeLayer>Item</altitudeLayer>
+    <selectable>true</selectable>
+    <ingestible />
+    <plant>
+      <fertilitySensitivity>1.0</fertilitySensitivity>
+      <dieIfLeafless>true</dieIfLeafless>
+      <sowWork>800</sowWork>
+      <sowTags>
+        <li>Ground</li>
+        <li>Decorative</li>
+      </sowTags>
+      <growMinGlow>0.3</growMinGlow>
+      <topWindExposure>0.1</topWindExposure>
+      <growDays>1.5</growDays>
+      <lifespanDaysPerGrowDays>5</lifespanDaysPerGrowDays>
+      <visualSizeRange>0.3~1.05</visualSizeRange>
+      <wildOrder>1</wildOrder>
+      <purpose>Beauty</purpose>
+    </plant>
+  </ThingDef>
+  <ThingDef ParentName="PlantBase">
+    <defName>SCBluehydrangea</defName>
+    <label>blue hydrangea</label>
+    <description>A large flowering bush with blue blossoms</description>
+    <statBases>
+      <MaxHitPoints>150</MaxHitPoints>
+      <Beauty>18</Beauty>
+      <Nutrition>0.25</Nutrition>
+    </statBases>
+    <graphicData>
+      <texPath>Things/Plant/Bluehydrangea</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <altitudeLayer>Item</altitudeLayer>
+    <selectable>true</selectable>
+    <ingestible />
+    <plant>
+      <fertilitySensitivity>1.0</fertilitySensitivity>
+      <dieIfLeafless>true</dieIfLeafless>
+      <sowWork>800</sowWork>
+      <sowTags>
+        <li>Ground</li>
+        <li>Decorative</li>
+      </sowTags>
+      <growMinGlow>0.3</growMinGlow>
+      <topWindExposure>0.1</topWindExposure>
+      <growDays>1.5</growDays>
+      <lifespanDaysPerGrowDays>5</lifespanDaysPerGrowDays>
+      <visualSizeRange>0.3~1.05</visualSizeRange>
+      <wildOrder>1</wildOrder>
+      <purpose>Beauty</purpose>
+    </plant>
+  </ThingDef>
+  <ThingDef ParentName="PlantBase">
+    <defName>SCPinkhydrangea</defName>
+    <label>pink hydrangea</label>
+    <description>A large flowering bush with pink blossoms</description>
+    <statBases>
+      <MaxHitPoints>150</MaxHitPoints>
+      <Beauty>18</Beauty>
+      <Nutrition>0.25</Nutrition>
+    </statBases>
+    <graphicData>
+      <texPath>Things/Plant/Pinkhydrangea</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <altitudeLayer>Item</altitudeLayer>
+    <selectable>true</selectable>
+    <ingestible />
+    <plant>
+      <fertilitySensitivity>1.0</fertilitySensitivity>
+      <dieIfLeafless>true</dieIfLeafless>
+      <sowWork>800</sowWork>
+      <sowTags>
+        <li>Ground</li>
+        <li>Decorative</li>
+      </sowTags>
+      <growMinGlow>0.3</growMinGlow>
+      <topWindExposure>0.1</topWindExposure>
+      <growDays>1.5</growDays>
+      <lifespanDaysPerGrowDays>5</lifespanDaysPerGrowDays>
+      <visualSizeRange>0.3~1.05</visualSizeRange>
+      <wildOrder>1</wildOrder>
+      <purpose>Beauty</purpose>
+    </plant>
+  </ThingDef>
+  <ThingDef ParentName="PlantBase">
+    <defName>SCLavender</defName>
+    <label>lavender</label>
+    <description>A medium flowering bush with long stems of purple blossoms.</description>
+    <statBases>
+      <MaxHitPoints>150</MaxHitPoints>
+      <Beauty>18</Beauty>
+      <Nutrition>0.25</Nutrition>
+    </statBases>
+    <graphicData>
+      <texPath>Things/Plant/Lavender</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <altitudeLayer>Item</altitudeLayer>
+    <selectable>true</selectable>
+    <ingestible />
+    <plant>
+      <fertilitySensitivity>1.0</fertilitySensitivity>
+      <dieIfLeafless>true</dieIfLeafless>
+      <sowWork>800</sowWork>
+      <sowTags>
+        <li>Ground</li>
+        <li>Decorative</li>
+      </sowTags>
+      <growMinGlow>0.3</growMinGlow>
+      <topWindExposure>0.1</topWindExposure>
+      <growDays>1.5</growDays>
+      <lifespanDaysPerGrowDays>5</lifespanDaysPerGrowDays>
+      <visualSizeRange>0.3~1.05</visualSizeRange>
+      <wildOrder>1</wildOrder>
+      <purpose>Beauty</purpose>
+    </plant>
+  </ThingDef>
+  <ThingDef ParentName="PlantBase">
+    <defName>SCSunflowerBush</defName>
+    <label>decorative sunflower bush</label>
+    <description>A medium flowering bush with yellow blossoms. Some varieties yeild seeds but this one appears to be purely decorative.</description>
+    <statBases>
+      <MaxHitPoints>150</MaxHitPoints>
+      <Beauty>18</Beauty>
+      <Nutrition>0.25</Nutrition>
+    </statBases>
+    <graphicData>
+      <texPath>Things/Plant/Sunflowerbush</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <altitudeLayer>Item</altitudeLayer>
+    <selectable>true</selectable>
+    <ingestible />
+    <plant>
+      <fertilitySensitivity>1.0</fertilitySensitivity>
+      <dieIfLeafless>true</dieIfLeafless>
+      <sowWork>800</sowWork>
+      <sowTags>
+        <li>Ground</li>
+        <li>Decorative</li>
+      </sowTags>
+      <growMinGlow>0.3</growMinGlow>
+      <topWindExposure>0.1</topWindExposure>
+      <growDays>1.5</growDays>
+      <lifespanDaysPerGrowDays>5</lifespanDaysPerGrowDays>
+      <visualSizeRange>0.3~1.05</visualSizeRange>
+      <wildOrder>1</wildOrder>
+      <purpose>Beauty</purpose>
+    </plant>
+  </ThingDef>
+  <!--Succulents -->
+  <ThingDef ParentName="PlantBase">
+    <defName>SCFloweringPincushionCactus</defName>
+    <label>flowering pincushion cactus</label>
+    <description>A short cactus that has small, pretty pink flowers. So named because it resembles a pincushion and has flowers.</description>
+    <statBases>
+      <MaxHitPoints>150</MaxHitPoints>
+      <Beauty>10</Beauty>
+      <Nutrition>0.25</Nutrition>
+    </statBases>
+    <graphicData>
+      <texPath>Things/Plant/Floweringpincushion</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <selectable>true</selectable>
+    <pathCost>30</pathCost>
+    <hideAtSnowDepth>1</hideAtSnowDepth>
+    <altitudeLayer>Item</altitudeLayer>
+    <ingestible />
+    <plant>
+      <fertilitySensitivity>1.0</fertilitySensitivity>
+      <dieIfLeafless>true</dieIfLeafless>
+      <sowWork>800</sowWork>
+      <sowTags>
+        <li>Ground</li>
+        <li>Decorative</li>
+      </sowTags>
+      <growMinGlow>0.3</growMinGlow>
+      <topWindExposure>0.1</topWindExposure>
+      <growDays>1.5</growDays>
+      <lifespanDaysPerGrowDays>5</lifespanDaysPerGrowDays>
+      <visualSizeRange>0.3~1.05</visualSizeRange>
+      <wildOrder>1</wildOrder>
+      <purpose>Beauty</purpose>
+    </plant>
+  </ThingDef>
+  <ThingDef ParentName="PlantBase">
+    <defName>SCFloweringSaguaroCactus</defName>
+    <label>flowering saguaro cactus</label>
+    <description>A tall cactus that has many pretty white flowers at the top of each branch. This strain has been perfected for indoor potted growth.</description>
+    <statBases>
+      <MaxHitPoints>150</MaxHitPoints>
+      <Beauty>10</Beauty>
+      <Nutrition>0.25</Nutrition>
+    </statBases>
+    <graphicData>
+      <texPath>Things/Plant/Floweringsaguaro</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <selectable>true</selectable>
+    <pathCost>30</pathCost>
+    <hideAtSnowDepth>1</hideAtSnowDepth>
+    <altitudeLayer>Item</altitudeLayer>
+    <ingestible />
+    <plant>
+      <fertilitySensitivity>1.0</fertilitySensitivity>
+      <dieIfLeafless>true</dieIfLeafless>
+      <sowWork>800</sowWork>
+      <sowTags>
+        <li>Ground</li>
+        <li>Decorative</li>
+      </sowTags>
+      <growMinGlow>0.3</growMinGlow>
+      <topWindExposure>0.1</topWindExposure>
+      <growDays>15</growDays>
+      <lifespanDaysPerGrowDays>5</lifespanDaysPerGrowDays>
+      <visualSizeRange>0.3~1.05</visualSizeRange>
+      <wildOrder>1</wildOrder>
+      <purpose>Beauty</purpose>
+    </plant>
+  </ThingDef>
+  <!--Bonsai Trees-->
+  <ThingDef ParentName="PlantBase">
+    <defName>SCBonsaiTreePine</defName>
+    <label>bonsai pine tree</label>
+    <description>A small version of a large conifer - carefully trimmed to keep it a potable size. Must be grown in a pot.</description>
+    <statBases>
+      <MaxHitPoints>150</MaxHitPoints>
+      <Beauty>40</Beauty>
+      <Nutrition>0.25</Nutrition>
+    </statBases>
+    <graphicData>
+      <texPath>Things/Plant/Bonsaipine</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <altitudeLayer>Item</altitudeLayer>
+    <selectable>true</selectable>
+    <ingestible />
+    <plant>
+      <fertilitySensitivity>1.0</fertilitySensitivity>
+      <dieIfLeafless>true</dieIfLeafless>
+      <sowWork>1800</sowWork>
+      <sowTags>
+        <li>Decorative</li>
+      </sowTags>
+      <growMinGlow>0.3</growMinGlow>
+      <topWindExposure>0.1</topWindExposure>
+      <growDays>25</growDays>
+      <lifespanDaysPerGrowDays>5</lifespanDaysPerGrowDays>
+      <visualSizeRange>0.3~1.05</visualSizeRange>
+      <wildOrder>1</wildOrder>
+      <purpose>Beauty</purpose>
+    </plant>
+  </ThingDef>
+  <ThingDef ParentName="PlantBase">
+    <defName>SCBonsaiTreeBirch</defName>
+    <label>bonsai birch tree</label>
+    <description>A small version of a birch tree - carefully trimmed to keep it a potable size. Must be grown in a pot.</description>
+    <statBases>
+      <MaxHitPoints>150</MaxHitPoints>
+      <Beauty>40</Beauty>
+      <Nutrition>0.25</Nutrition>
+    </statBases>
+    <graphicData>
+      <texPath>Things/Plant/Bonsaibirch</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <altitudeLayer>Item</altitudeLayer>
+    <selectable>true</selectable>
+    <ingestible />
+    <plant>
+      <fertilitySensitivity>1.0</fertilitySensitivity>
+      <dieIfLeafless>true</dieIfLeafless>
+      <sowWork>1800</sowWork>
+      <sowTags>
+        <li>Decorative</li>
+      </sowTags>
+      <growMinGlow>0.3</growMinGlow>
+      <topWindExposure>0.1</topWindExposure>
+      <growDays>25</growDays>
+      <lifespanDaysPerGrowDays>5</lifespanDaysPerGrowDays>
+      <visualSizeRange>0.3~1.05</visualSizeRange>
+      <wildOrder>1</wildOrder>
+      <purpose>Beauty</purpose>
+    </plant>
+  </ThingDef>
+  <ThingDef ParentName="PlantBase">
+    <defName>SCBonsaiTreeCecropia</defName>
+    <label>bonsai cecropia tree</label>
+    <description>A small version of a cecropia tree - carefully trimmed to keep it a potable size. Must be grown in a pot.</description>
+    <statBases>
+      <MaxHitPoints>150</MaxHitPoints>
+      <Beauty>40</Beauty>
+      <Nutrition>0.25</Nutrition>
+    </statBases>
+    <graphicData>
+      <texPath>Things/Plant/Bonsaicecropia</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <altitudeLayer>Item</altitudeLayer>
+    <selectable>true</selectable>
+    <ingestible />
+    <plant>
+      <fertilitySensitivity>1.0</fertilitySensitivity>
+      <dieIfLeafless>true</dieIfLeafless>
+      <sowWork>1800</sowWork>
+      <sowTags>
+        <li>Decorative</li>
+      </sowTags>
+      <growMinGlow>0.3</growMinGlow>
+      <topWindExposure>0.1</topWindExposure>
+      <growDays>25</growDays>
+      <lifespanDaysPerGrowDays>5</lifespanDaysPerGrowDays>
+      <visualSizeRange>0.3~1.05</visualSizeRange>
+      <wildOrder>1</wildOrder>
+      <purpose>Beauty</purpose>
+    </plant>
+  </ThingDef>
+  <ThingDef ParentName="PlantBase">
+    <defName>SCBonsaiTreeOak</defName>
+    <label>bonsai oak tree</label>
+    <description>A small version of an oak tree - carefully trimmed to keep it a potable size. Must be grown in a pot.</description>
+    <statBases>
+      <MaxHitPoints>150</MaxHitPoints>
+      <Beauty>40</Beauty>
+      <Nutrition>0.25</Nutrition>
+    </statBases>
+    <graphicData>
+      <texPath>Things/Plant/Bonsaioak</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <altitudeLayer>Item</altitudeLayer>
+    <selectable>true</selectable>
+    <ingestible />
+    <plant>
+      <fertilitySensitivity>1.0</fertilitySensitivity>
+      <dieIfLeafless>true</dieIfLeafless>
+      <sowWork>1800</sowWork>
+      <sowTags>
+        <li>Decorative</li>
+      </sowTags>
+      <growMinGlow>0.3</growMinGlow>
+      <topWindExposure>0.1</topWindExposure>
+      <growDays>25</growDays>
+      <lifespanDaysPerGrowDays>5</lifespanDaysPerGrowDays>
+      <visualSizeRange>0.3~1.05</visualSizeRange>
+      <wildOrder>1</wildOrder>
+      <purpose>Beauty</purpose>
+    </plant>
+  </ThingDef>
+  <ThingDef ParentName="PlantBase">
+    <defName>SCBonsaiTreePoplar</defName>
+    <label>bonsai poplar tree</label>
+    <description>A small version of a poplar tree - carefully trimmed to keep it a potable size. Must be grown in a pot.</description>
+    <statBases>
+      <MaxHitPoints>150</MaxHitPoints>
+      <Beauty>40</Beauty>
+      <Nutrition>0.25</Nutrition>
+    </statBases>
+    <graphicData>
+      <texPath>Things/Plant/BonsaiPoplar</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <altitudeLayer>Item</altitudeLayer>
+    <selectable>true</selectable>
+    <ingestible />
+    <plant>
+      <fertilitySensitivity>1.0</fertilitySensitivity>
+      <dieIfLeafless>true</dieIfLeafless>
+      <sowWork>1800</sowWork>
+      <sowTags>
+        <li>Decorative</li>
+      </sowTags>
+      <growMinGlow>0.3</growMinGlow>
+      <topWindExposure>0.1</topWindExposure>
+      <growDays>25</growDays>
+      <lifespanDaysPerGrowDays>5</lifespanDaysPerGrowDays>
+      <visualSizeRange>0.3~1.05</visualSizeRange>
+      <wildOrder>1</wildOrder>
+      <purpose>Beauty</purpose>
+    </plant>
+  </ThingDef>
+</Defs>
