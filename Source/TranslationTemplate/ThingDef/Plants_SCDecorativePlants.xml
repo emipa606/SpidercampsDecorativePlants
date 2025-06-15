@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: blue hydrangea -->
+  <SCBluehydrangea.label>blue hydrangea</SCBluehydrangea.label>
+  <!-- EN: A large flowering bush with blue blossoms -->
+  <SCBluehydrangea.description>A large flowering bush with blue blossoms</SCBluehydrangea.description>
+  <!-- EN: bonsai birch tree -->
+  <SCBonsaiTreeBirch.label>bonsai birch tree</SCBonsaiTreeBirch.label>
+  <!-- EN: A small version of a birch tree - carefully trimmed to keep it a potable size. Must be grown in a pot. -->
+  <SCBonsaiTreeBirch.description>A small version of a birch tree - carefully trimmed to keep it a potable size. Must be grown in a pot.</SCBonsaiTreeBirch.description>
+  <!-- EN: bonsai cecropia tree -->
+  <SCBonsaiTreeCecropia.label>bonsai cecropia tree</SCBonsaiTreeCecropia.label>
+  <!-- EN: A small version of a cecropia tree - carefully trimmed to keep it a potable size. Must be grown in a pot. -->
+  <SCBonsaiTreeCecropia.description>A small version of a cecropia tree - carefully trimmed to keep it a potable size. Must be grown in a pot.</SCBonsaiTreeCecropia.description>
+  <!-- EN: bonsai oak tree -->
+  <SCBonsaiTreeOak.label>bonsai oak tree</SCBonsaiTreeOak.label>
+  <!-- EN: A small version of an oak tree - carefully trimmed to keep it a potable size. Must be grown in a pot. -->
+  <SCBonsaiTreeOak.description>A small version of an oak tree - carefully trimmed to keep it a potable size. Must be grown in a pot.</SCBonsaiTreeOak.description>
+  <!-- EN: bonsai pine tree -->
+  <SCBonsaiTreePine.label>bonsai pine tree</SCBonsaiTreePine.label>
+  <!-- EN: A small version of a large conifer - carefully trimmed to keep it a potable size. Must be grown in a pot. -->
+  <SCBonsaiTreePine.description>A small version of a large conifer - carefully trimmed to keep it a potable size. Must be grown in a pot.</SCBonsaiTreePine.description>
+  <!-- EN: bonsai poplar tree -->
+  <SCBonsaiTreePoplar.label>bonsai poplar tree</SCBonsaiTreePoplar.label>
+  <!-- EN: A small version of a poplar tree - carefully trimmed to keep it a potable size. Must be grown in a pot. -->
+  <SCBonsaiTreePoplar.description>A small version of a poplar tree - carefully trimmed to keep it a potable size. Must be grown in a pot.</SCBonsaiTreePoplar.description>
+  <!-- EN: flowering pincushion cactus -->
+  <SCFloweringPincushionCactus.label>flowering pincushion cactus</SCFloweringPincushionCactus.label>
+  <!-- EN: A short cactus that has small, pretty pink flowers. So named because it resembles a pincushion and has flowers. -->
+  <SCFloweringPincushionCactus.description>A short cactus that has small, pretty pink flowers. So named because it resembles a pincushion and has flowers.</SCFloweringPincushionCactus.description>
+  <!-- EN: flowering saguaro cactus -->
+  <SCFloweringSaguaroCactus.label>flowering saguaro cactus</SCFloweringSaguaroCactus.label>
+  <!-- EN: A tall cactus that has many pretty white flowers at the top of each branch. This strain has been perfected for indoor potted growth. -->
+  <SCFloweringSaguaroCactus.description>A tall cactus that has many pretty white flowers at the top of each branch. This strain has been perfected for indoor potted growth.</SCFloweringSaguaroCactus.description>
+  <!-- EN: lavender -->
+  <SCLavender.label>lavender</SCLavender.label>
+  <!-- EN: A medium flowering bush with long stems of purple blossoms. -->
+  <SCLavender.description>A medium flowering bush with long stems of purple blossoms.</SCLavender.description>
+  <!-- EN: pink hydrangea -->
+  <SCPinkhydrangea.label>pink hydrangea</SCPinkhydrangea.label>
+  <!-- EN: A large flowering bush with pink blossoms -->
+  <SCPinkhydrangea.description>A large flowering bush with pink blossoms</SCPinkhydrangea.description>
+  <!-- EN: decorative sunflower bush -->
+  <SCSunflowerBush.label>decorative sunflower bush</SCSunflowerBush.label>
+  <!-- EN: A medium flowering bush with yellow blossoms. Some varieties yeild seeds but this one appears to be purely decorative. -->
+  <SCSunflowerBush.description>A medium flowering bush with yellow blossoms. Some varieties yeild seeds but this one appears to be purely decorative.</SCSunflowerBush.description>
+  <!-- EN: white hydrangea -->
+  <SCWhitehydrangea.label>white hydrangea</SCWhitehydrangea.label>
+  <!-- EN: A large flowering bush with white blossoms. -->
+  <SCWhitehydrangea.description>A large flowering bush with white blossoms.</SCWhitehydrangea.description>
+</LanguageData>
